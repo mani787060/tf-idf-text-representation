@@ -94,7 +94,7 @@ Tokenization
    ↓
 Calculate Term Frequency
    ↓
-Calculate Inverse Document Frequency
+Calculate Inverse Document Frequency (IDF)
    ↓
 TF-IDF Calculation
    ↓
